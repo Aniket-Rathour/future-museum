@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- anti-gravity glow -->
+  <circle cx="32" cy="58" r="5" fill="#7ff3ff" opacity=".35"/>
+  <circle cx="32" cy="58" r="2.2" fill="#c9fbff"/>
+  <!-- slate rock underside -->
+  <path d="M6 33h52l-6 9-7 6-6 6h-6l-7-5-8-7z" fill="#2c313b"/>
+  <path d="M6 33h20l-4 9-9-3z M30 33h16l-5 10-9 3z" fill="#4a5160"/>
+  <path d="M39 49l6-6 3 1-6 5z M21 44l7 5-2 2-6-5z" fill="#5d6574"/>
+  <!-- grass slab -->
+  <rect x="4" y="28" width="56" height="7" rx="3.5" fill="#4f7d26"/>
+  <rect x="4" y="27" width="56" height="4" rx="2" fill="#86b23a"/>
+  <!-- pine -->
+  <path d="M8 28l6-20 6 20z" fill="#1d4224"/>
+  <path d="M10 20l4-12 4 12z" fill="#2f5c2b"/>
+  <!-- timber house with blue slate roof -->
+  <rect x="27" y="17" width="20" height="10" fill="#ecdfc4"/>
+  <path d="M27 17h20v10H27z M33 17v10 M41 17v10 M27 22h20" fill="none" stroke="#3a2516" stroke-width="1.4"/>
+  <path d="M24 18L37 7l13 11z" fill="#4a6fae"/>
+  <path d="M24 18L37 7l2 2-12 10z" fill="#6d8fcb"/>
+  <rect x="42" y="9" width="3" height="6" fill="#8e8a82"/>
+  <rect x="35" y="22" width="4" height="5" fill="#ffbe6a"/>
+</svg>
